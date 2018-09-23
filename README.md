@@ -10,8 +10,8 @@
 
 简单接入的文档
 
-- 使用文档
-- 二次开发文档
+- [使用文档](./doc/use/README.md)
+- [二次开发文档](./doc/dev/README.md)
 
 ##交流提问区
     https://github.com/charleslp/bigBucket-/issues
