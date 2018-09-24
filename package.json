@@ -10,6 +10,7 @@
   },
   "author": "charleslp",
   "license": "MIT",
+  "private": true,
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
