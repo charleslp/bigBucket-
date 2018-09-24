@@ -4,6 +4,7 @@
 ##简介
 
 ##安装下载
+-下载地址  https://github.com/charleslp/bigBucket-/releases/tag/v1.1.1
 
 ##快速使用
 

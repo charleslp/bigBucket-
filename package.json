@@ -8,7 +8,7 @@
     "release": "webpack",
     "example": "http-server -p 8880"
   },
-  "author": "luopeng",
+  "author": "charleslp",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.3",
@@ -18,5 +18,8 @@
     "babel-preset-latest": "^6.24.1",
     "webpack": "^4.19.1",
     "webpack-cli": "^3.1.0"
+  },
+  "dependencies": {
+    "user": "0.0.0"
   }
 }
