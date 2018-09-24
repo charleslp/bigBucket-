@@ -1,5 +1,5 @@
 {
-  "name": "bigbucket",
+  "name": "bigBucket-",
   "version": "1.1.2",
   "description": "短小精悍的前端工具，前端编码更顺畅",
   "main": "src/index.js",
